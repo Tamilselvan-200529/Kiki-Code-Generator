@@ -1,0 +1,94 @@
+# 🧠 Kiki Code Generator
+
+Kiki Code Generator is a user-friendly web app developed using Streamlit that utilizes OpenAI's Mistral model via the NVIDIA endpoint to generate Python code based on natural language input. This is a mini project created as part of the **Artificial Intelligence and Data Science** curriculum at **National Engineering College**.
+
+---
+
+## 🎯 Objective
+
+To build an AI-powered tool that simplifies the coding process by generating Python code from user prompts using advanced language models.
+
+---
+
+## 🚀 Features
+
+- 🧠 Powered by Mistral AI model via OpenAI API
+- 🌐 Built with Streamlit for interactive UI
+- ✍️ Generates Python code based on user input
+- 🔄 Real-time streaming of generated responses
+- 💡 Future extensibility for other languages and platforms
+
+---
+
+## 🛠️ Tech Stack
+
+- **Language:** Python  
+- **Framework:** Streamlit  
+- **API:** OpenAI (Mistral via NVIDIA endpoint)  
+
+---
+
+## 📂 Folder Structure
+
+```
+kiki-code-generator/
+├── app.py                   # Main Streamlit application
+├── requirements.txt         # Dependencies for the project
+├── README.md                # Project overview and documentation
+└── AI_DOC_project_report.pdf  # Mini project report file
+```
+
+---
+
+## 🧪 How to Run Locally
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/yourusername/kiki-code-generator.git
+cd kiki-code-generator
+```
+
+2. **Install dependencies**
+
+```bash
+pip install -r requirements.txt
+```
+
+3. **Run the app**
+
+```bash
+streamlit run app.py
+```
+
+> ⚠️ Don’t forget to replace `"YOUR_API_KEY_HERE"` in `app.py` with your actual API key.
+
+---
+
+## 📄 Project Report
+
+Read the full project report here:  
+**[AI_DOC_project_report.pdf](AI_DOC_project_report.pdf)**
+
+---
+
+## 🔮 Future Enhancements
+
+- 🎙️ Voice input and NLP enhancements
+- 🧠 Domain-specific code generation
+- 🌐 Git/GitHub integration for versioning
+- 💬 Smarter error handling and user feedback
+- ☁️ Deploy to cloud with CI/CD setup
+
+---
+
+## 👨‍💻 Developed By
+
+**Tamilselvan M**  
+Department of Artificial Intelligence and Data Science  
+
+---
+
+## 📜 License
+
+This project is for educational purposes only.
